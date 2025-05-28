@@ -107,15 +107,6 @@ ID,Name,Salary,Department,Position
 - [Arnav Gupta] - File I/O
 - [Aarush Bakshi] - Main Application & Header File
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Windows API documentation
-- Visual Studio development tools
-- Modern UI design principles
 
 ## Contact
 
