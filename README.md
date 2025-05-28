@@ -103,7 +103,7 @@ ID,Name,Salary,Department,Position
 ## Team Members
 
 - [Ameya Borkar] - UI Component
-- [Aditya chimurkar] - Data Management
+- [Aditya Chimurkar] - Data Management
 - [Arnav Gupta] - File I/O
 - [Aarush Bakshi] - Main Application & Header File
 
